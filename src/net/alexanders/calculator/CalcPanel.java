@@ -1,6 +1,7 @@
 package net.alexanders.calculator;
 
-import net.alexanders.calculator.oracle.SpringUtilities;
+import net.alexanders.calculator.externalutilities.SpringUtilities;
+import net.alexanders.calculator.externalutilities.integerFilter;
 
 import javax.swing.*;
 import javax.swing.text.PlainDocument;

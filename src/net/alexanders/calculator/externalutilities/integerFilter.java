@@ -1,4 +1,4 @@
-package net.alexanders.calculator;
+package net.alexanders.calculator.externalutilities;
 
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;

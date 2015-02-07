@@ -29,7 +29,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package net.alexanders.calculator.oracle;
+package net.alexanders.calculator.externalutilities;
 
 import javax.swing.*;
 import java.awt.*;
